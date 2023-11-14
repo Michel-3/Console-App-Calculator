@@ -12,3 +12,17 @@ C:\Users\mruiter\source\repos\Calculator\Calculator\obj\Debug\net6.0\refint\Calc
 C:\Users\mruiter\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
 C:\Users\mruiter\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 C:\Users\mruiter\source\repos\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\mruiter\OneDrive - SnelStart Software B.V\Documents\dev\C#\Console-App-Calculator\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
